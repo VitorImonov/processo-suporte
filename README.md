@@ -14,8 +14,9 @@ Padronizar o tratamento de chamados desde a abertura até a validação final, r
 
 ---
 
-## 1. Abertura do Chamado (Atendimento)
+## 1. Abertura do Chamado
 
+Responsável: **Atendimento**
 O chamado deve ser criado pelo atendimento contendo, obrigatoriamente:
 
 - Descrição clara da demanda  
